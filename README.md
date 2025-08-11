@@ -2,10 +2,9 @@
 
 <p align="center">
   <a href="#projeto">Projeto</a>  |  
-  <a href="#tecnologias">Tecnologias</a>  |  
   <a href="#visualizar">Visualizar</a>  |
   <a href="#funcionalidades">Funcionalidades</a>  |
-  <a href="#como usar">Como Usar</a>
+  <a href="[Como Usar](#como-usar)">Como Usar</a>
 </p>
 <br>
 
@@ -19,7 +18,7 @@ Este projeto é um sorteador de números desenvolvido com HTML, CSS e JavaScript
 
 ## Visualizar
 O projeto está disponível para visualização no link:
-[https://luigii07.github.io/LP-CLUBE-DE-ASSINATURA/](https://luigii07.github.io/sorteador-de-numeros/)
+https://luigii07.github.io/sorteador-de-numeros/
 
 
 ## Funcionalidades
