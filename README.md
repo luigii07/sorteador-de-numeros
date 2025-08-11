@@ -9,7 +9,7 @@
 </p>
 <br>
 
-<img width="3780" height="1890" alt="Sorteador de números" src="https://github.com/user-attachments/assets/f877ff8e-f642-43a6-8e76-a4e7894afa96" />
+<img width="3780" height="1890" alt="Sorteador de números" src="https://github.com/user-attachments/assets/4801fa1d-40e0-49df-8ddb-2f631436c8ef" />
 
 ---
 
