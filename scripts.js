@@ -33,6 +33,10 @@ form.onsubmit = (event) => {
             throw new RangeError("Quantidade solicitada excede o número de valores únicos disponíveis.")
         }
 
+        if (!params.quantity || !params.end || !params.start) {
+            throw new RangeError("Preencha todos os campos")
+        }
+
         raffle.classList.add("hidden")
         result.style.display = "grid"
 
